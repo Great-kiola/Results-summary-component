@@ -10,8 +10,40 @@
     src: url(./assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
 }
 
-h1{
-    font-family: Hanken, sans-serif;
+@font-face {
+    font-family: mentalis;
+    src: url(./assets/fonts/baratheon.otf);
 }
+
+
+body {
+    font-family: mentalis, cursive;
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+.roundGradient{
+    background-color: blue;
+    border-radius: 100%;
+    width: 12%;
+    height: 250px;
+    width: 50%;
+    /* padding: 20px; */
+}
+
+.btn{
+    padding: 20px 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: bisque;
+}
+
+.btn:hover{
+    background-color: aqua;
+   
+}
+
+/* Footer */
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
