@@ -10,20 +10,19 @@
     src: url(./assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
 }
 
-@font-face {
-    font-family: mentalis;
-    src: url(./assets/fonts/baratheon.otf);
-}
-
 
 body {
-    font-size: 2rem;
+    font-family: Hanken, sans-serif;
     text-align: center;
-
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 
-.roundGradient{
+/* .roundGradient{
     background-color: blue;
     border-radius: 50%;
     width: 250px;
@@ -32,9 +31,34 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
+} */
+
+.mainContainer {
+    background-color: rgb(75, 176, 248);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.firstContainer{
+    background-color: brown;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.secondContainer{
+    padding: 30px;
+    margin: 20px;
+}
+
+.reaction{
+    background-color: hsl(0, 100%, 67%);
 }
 
 .btn{
+    width: 250px;
     padding: 20px 50px;
     border-radius: 15px;
     border: none;
@@ -44,6 +68,12 @@ body {
 .btn:hover{
     background-color: aqua;
    
+}
+
+
+
+ul{
+    list-style-type: none;
 }
 
 /* Footer */
