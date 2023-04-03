@@ -1,5 +1,4 @@
-
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -42,40 +41,83 @@ body {
 
 }
 
-.firstContainer{
+.firstContainer {
     background-color: brown;
-    height: 500px;
+    height: 550px;
     border-radius: 20px;
 }
 
-.secondContainer{
+.secondContainer {
     padding: 30px;
     margin: 20px;
 }
 
-.reaction{
-    background-color: hsl(0, 100%, 67%);
+/* Mini-Boxes */
+.miniBoxes {
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
 }
 
-.btn{
+.reaction {
+    /* background-color: hsl(0, 100%, 67%); */
+
+}
+
+.memory {
+    /* background-color: hsl(39, 100%, 56%); */
+}
+
+.verbal {
+    /* background-color: hsl(166, 100%, 37%); */
+}
+
+.visual {
+    /* background-color: hsl(234, 85%, 45%); */
+}
+
+.btn {
     width: 250px;
     padding: 20px 50px;
-    border-radius: 15px;
+    border-radius: 35px;
     border: none;
-    background-color: bisque;
+    background-color: hsl(224, 30%, 27%);
+    color: white;
+    font-size: 0.9rem;
 }
 
-.btn:hover{
+.btn:hover {
     background-color: aqua;
-   
+
+}
+
+span {
+    font-family: Hanken, sans-serif;
+    font-weight: 900;
+    font-size: 1.2rem;
+}
+
+.number{
+    color:blue;
+
 }
 
 
-
-ul{
+ul {
     list-style-type: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
+
 
 /* Footer */
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
