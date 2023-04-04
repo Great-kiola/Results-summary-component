@@ -30,6 +30,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
+    background-image: linear-gradient(hsla(256, 72%, 46%) , hsla(241, 72%, 46%, 1));
 }
 
 .mainContainer {
@@ -50,6 +51,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
 .secondContainer {
@@ -96,15 +98,16 @@ body {
 
 }
 
-span {
+span.title {
     font-family: Hanken, sans-serif;
     font-weight: 900;
     font-size: 1.2rem;
+    color: red;
 }
 
 
 span.number{
-    color:blue;
+    color:hsl(224, 30%, 27%);
     font-family: Hanken, sans-serif;
     font-weight: 900;
     font-size: 1.2rem;
