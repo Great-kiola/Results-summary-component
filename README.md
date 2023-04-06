@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Great-kiola/Results-summary-component)
-- Live Site URL: [Add live site URL here](https://great-kiola.github.io/Results-summary-component/)
+- Solution URL: [Solution URL](https://github.com/Great-kiola/Results-summary-component)
+- Live Site URL: [Live site URL](https://great-kiola.github.io/Results-summary-component/)
 
 ## My process
 
