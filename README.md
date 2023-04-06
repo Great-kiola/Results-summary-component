@@ -15,12 +15,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+!(Screenshot)[<https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png>
+]
+<!-- <img width="1094" alt="image" src="https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png"> -->
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Great-kiola/Results-summary-component)
+- Live Site URL: [Add live site URL here](https://great-kiola.github.io/Results-summary-component/)
 
 ## My process
 
