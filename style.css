@@ -56,7 +56,8 @@ body {
 
 .secondContainer {
     padding: 30px;
-    margin: 20px;
+    /* margin: 20px; */
+    text-align: left;
 }
 
 /* Mini-Boxes */
@@ -81,6 +82,16 @@ body {
 
 .visual {
     background-color: hsl(234, 85%, 45%, 0.1);
+}
+
+.firstContainer, h1, h2, p{
+    color: white;
+}
+
+.secondContainer h1{
+    color: black;
+    font-size: 1.2rem;
+    text-align: left;
 }
 
 .btn {
