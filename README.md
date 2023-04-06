@@ -3,6 +3,8 @@
 
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+### Screenshot
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png">
 
 ## Overview
 
@@ -13,11 +15,6 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-(Screenshot)[<https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png>
-]
-<!-- <img width="1094" alt="image" src="https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png"> -->
 
 ### Links
 
