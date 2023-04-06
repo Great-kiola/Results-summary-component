@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-!(Screenshot)[<https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png>
+(Screenshot)[<https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png>
 ]
 <!-- <img width="1094" alt="image" src="https://user-images.githubusercontent.com/117322790/230437761-8284d9e9-eaf0-4900-b56a-b7d77844f178.png"> -->
 
